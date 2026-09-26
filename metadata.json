@@ -1,0 +1,6 @@
+{
+  "name": "Coverzo — Precision Smartphone Cases & Accessories",
+  "description": "Coverzo precision-fit smartphone cases, MagSafe armor, tempered glass with 100% fit guarantee, fast Delhivery dispatch, and instant returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
